@@ -15,4 +15,4 @@ fibona.o:fibona.c
 sum2.o:sum2.c
 	gcc -c sum2.c
 palin.o:palin.c 
-	gcc -c palin.
+	gcc -c palin.c
